@@ -1,6 +1,6 @@
 # Data-Export-API
 
-Curl-based reference scripts for interacting with the [Decagon Conversations API](https://docs.decagon.ai). Intended for enterprise integrations (e.g. Genesys, CCaaS platforms) that need to create, manage, and export AI conversation data programmatically.
+Curl-based reference scripts for interacting with the [Decagon Conversations API](https://docs.decagon.ai). Intended for enterprise integrations (e.g. Genesys,Cisco, Avaya and other CCaaS platforms) that need to create, manage, summerize and export AI conversation data programmatically.
 
 ## Base URL
 
